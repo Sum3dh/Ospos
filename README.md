@@ -33,8 +33,8 @@ The latest 3.x version is a complete overhaul of the original software. It is no
 Deployed to a Cloud it's a SaaS (Software as a Service) solution.
 
 ## How to use this images
-You can check my [docker-compose](https://github.com/Sum3dh/Ospos/blob/master/docker-compose.yml).
+You can check my [docker-compose](https://github.com/Sum3dh/Ospos/blob/master/docker-compose.yml) file.
 
 Edit the docker-compose file with appropriate username and password.
 
-To start your stack use command : docker-compose up -d
+To start your stack use command : **docker-compose up -d**
